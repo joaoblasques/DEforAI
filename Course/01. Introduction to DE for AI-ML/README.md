@@ -64,9 +64,9 @@ See `Exercises/Chapter-01/` for hands-on practice:
 
 ## 🔗 Related Concepts
 
-- [[../02. ML Data Pipeline Lifecycle/README.md|Chapter 2: ML Data Pipeline Lifecycle]]
-- [[../10. Feature Stores/README.md|Chapter 10: Feature Stores]]
-- [[../13. MLOps & Data Pipeline Integration/README.md|Chapter 13: MLOps]]
+- [[01_Projects/DEforAI/Course/02. ML Data Pipeline Lifecycle/README|Chapter 2: ML Data Pipeline Lifecycle]]
+- [[01_Projects/DEforAI/Course/10. Feature Stores/README|Chapter 10: Feature Stores]]
+- [[01_Projects/DEforAI/Course/13. MLOps & Data Pipeline Integration/README|Chapter 13: MLOps]]
 
 ---
 

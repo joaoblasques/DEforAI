@@ -69,10 +69,10 @@ See `Exercises/Chapter-03/` for hands-on practice:
 
 ## 🔗 Related Concepts
 
-- [[../02. ML Data Pipeline Lifecycle/README.md|Chapter 2: ML Data Pipeline Lifecycle]]
-- [[../07. Batch Processing for ML Data/README.md|Chapter 7: Batch Processing]]
-- [[../08. Stream Processing & Real-Time ML/README.md|Chapter 8: Stream Processing]]
-- [[../13. MLOps & Data Pipeline Integration/README.md|Chapter 13: MLOps]]
+- [[01_Projects/DEforAI/Course/02. ML Data Pipeline Lifecycle/README|Chapter 2: ML Data Pipeline Lifecycle]]
+- [[01_Projects/DEforAI/Course/07. Batch Processing for ML Data/README|Chapter 7: Batch Processing]]
+- [[01_Projects/DEforAI/Course/08. Stream Processing & Real-Time ML/README|Chapter 8: Stream Processing]]
+- [[01_Projects/DEforAI/Course/13. MLOps & Data Pipeline Integration/README|Chapter 13: MLOps]]
 
 ---
 

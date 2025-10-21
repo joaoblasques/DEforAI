@@ -54,7 +54,7 @@ After completing this overview, you will be able to:
 
 ## 🔗 Related Concepts
 
-- [[../01. Introduction to DE for AI-ML/README.md|Chapter 1: Introduction to DE for AI-ML]]
+- [[01_Projects/DEforAI/Course/01. Introduction to DE for AI-ML/README|Chapter 1: Introduction to DE for AI-ML]]
 - [[../../README.md|Main Project README]]
 
 ---

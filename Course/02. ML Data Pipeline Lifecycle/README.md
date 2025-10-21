@@ -67,10 +67,10 @@ See `Exercises/Chapter-02/` for hands-on practice:
 
 ## 🔗 Related Concepts
 
-- [[../04. Data Storage for ML/README.md|Chapter 4: Data Storage for ML]]
-- [[../07. Batch Processing for ML Data/README.md|Chapter 7: Batch Processing]]
-- [[../08. Stream Processing & Real-Time ML/README.md|Chapter 8: Stream Processing]]
-- [[../09. Feature Engineering Pipelines/README.md|Chapter 9: Feature Engineering]]
+- [[01_Projects/DEforAI/Course/04. Data Storage for ML/README|Chapter 4: Data Storage for ML]]
+- [[01_Projects/DEforAI/Course/07. Batch Processing for ML Data/README|Chapter 7: Batch Processing]]
+- [[01_Projects/DEforAI/Course/08. Stream Processing & Real-Time ML/README|Chapter 8: Stream Processing]]
+- [[01_Projects/DEforAI/Course/09. Feature Engineering Pipelines/README|Chapter 9: Feature Engineering]]
 
 ---
 
